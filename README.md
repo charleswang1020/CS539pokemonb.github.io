@@ -27,7 +27,7 @@ Generative adversarial networks are a class of artificial intelligence algorithm
 #### 4.3.1 Code_1
 <pre><code>python resize.py<br/>
 python rgb.py<br/>
-python GAN.py</pre><br/>
+python GAN.py<br/></code></pre>
 #### 4.3.2 Code_2
 you can use our dataset to train the model by<br/>
 <pre><code>python main.py --input_height 64--input_width 64 --output_height 64 --output_width 64 --data pokemon --crop --train --epoch 80 --input_fname_pattern "*.jpg"</pre>
