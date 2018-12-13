@@ -37,14 +37,14 @@ you can use our dataset to train the model by<br/>
 <pre><code>python main.py --input_height 64--input_width 64 --output_height 64 --output_width 64 --data pokemon --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 Also, you can use your own dataset, making sure data folder contains your dataset or you can use<br/>
 <pre><code>$ mkdir data/DATA_NAME</code></pre>
-then, add you images data into DATA_NAME folder and use our model by
+Then, add you images data into DATA_NAME folder and use our model by
 <pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 ### 4.4 Result
-Pikachu(5000 epoches, 50 epoches per image)<br>
+Pikachu(295 pictures, 5000 epoches, 50 epoches per image)<br>
 ![](part2/results/Pikachu.gif)<br/>
-Squirtle(5000 epoches, 50 epoches per image)<br>
+Squirtle(280 pictures, 5000 epoches, 50 epoches per image)<br>
 ![](part2/results/Squirtle.gif)<br/>
-14000_pokemons(80 epoches, 1 epoch per image)<br>
+Pokemons(14000 pictures, 80 epoches, 1 epoch per image)<br>
 ![](part2/results/Pokemon_all.gif)<br/>
 ## 5 Credit
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)<br/>
