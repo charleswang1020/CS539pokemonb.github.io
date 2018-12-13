@@ -39,17 +39,15 @@ Also, you can use your own dataset, making sure data folder contains your datase
 <pre><code>$ mkdir data/DATA_NAME</code></pre>
 then, add you images data into DATA_NAME folder and use our model by
 <pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
-### 4.4 Generated result
+### 4.4 Result
 Pikachu(5000 epoches, 50 epoches per image)<br>
-
 ![](part2/results/Pikachu.gif)<br/>
 Squirtle(5000 epoches, 50 epoches per image)<br>
 ![](part2/results/Squirtle.gif)<br/>
 14000_pokemons(80 epoches, 1 epoch per image)<br>
 ![](part2/results/Pokemon_all.gif)<br/>
-
 ## 5 Credit
-https://zhuanlan.zhihu.com/p/24767059<br/>
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)<br/>
+https://zhuanlan.zhihu.com/p/24767059<br/>
 https://github.com/carpedm20/DCGAN-tensorflow<br/>
 https://github.com/llSourcell/Pokemon_GAN
