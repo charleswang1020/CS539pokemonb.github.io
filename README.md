@@ -31,11 +31,11 @@ Code_2 directly generates images of 14000 pokemons using DCGAN.<br/>
 python rgb.py<br/>
 python GAN.py<br/></code></pre>
 #### Code_2
-you can use our dataset to train the model by<br/>
+You can use our dataset to train the model by<br/>
 <pre><code>python main.py --input_height 64--input_width 64 --output_height 64 --output_width 64 --data pokemon --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
-Also, you can use your own dataset, making sure data folder contains your dataset or you can use<br/>
+Also, you can use your own dataset by<br/>
 <pre><code>$ mkdir data/DATA_NAME</code></pre>
-Then, add you images data into DATA_NAME folder and use our model by
+Then, add you images into DATA_NAME folder by
 <pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 ### 4.4 Result
 Pikachu (295 pictures, 5000 epoches, 50 epoches per image)<br>
