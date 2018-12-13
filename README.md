@@ -25,12 +25,15 @@ The code has five parts: data visualization, feature engineering, elo-rating and
 ### 4.1 Introduction
 Generative adversarial networks are a class of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks contesting with each other in a zero-sum game framework.
 ### 4.2 File
+Part 2 contains two codes<br/>
+Code_1 generates images of two classical pokemons called pikachu and squirtle using WGAN
+Code_2 generates images of all kinds of pokemons using 14000 pictures by implementing DCGAN
 ### 4.3 Usage
-#### 4.3.1 Code_1
+#### Code_1
 <pre><code>python resize.py<br/>
 python rgb.py<br/>
 python GAN.py<br/></code></pre>
-#### 4.3.2 Code_2
+#### Code_2
 you can use our dataset to train the model by<br/>
 <pre><code>python main.py --input_height 64--input_width 64 --output_height 64 --output_width 64 --data pokemon --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 Or, you can use your own dataset, making sure data folder contains your dataset or you can use<br/>
@@ -48,4 +51,6 @@ Squirtle<br>
 ## 5 Credit
 https://zhuanlan.zhihu.com/p/24767059<br/>
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+https://github.com/carpedm20/DCGAN-tensorflow
+https://github.com/llSourcell/Pokemon_GAN
 
