@@ -14,7 +14,11 @@ time<br/>
 scikit-learn<br/>
 SciPy<br/>
 ## Part1
-### introduction
-First we conduct feature engineering and data visualization, then we try several classical machine learning models to predict the combat result. The models include logistical regression, SVM, KNN, Adaboost, and MLP and so on. And we plot each model’s confusion matrix, and ROC curve. <br>
-### usage
-
+### Introduction
+First we conduct data visualization feature engineering and elo-rating , then we try several classical machine learning models to predict the combat result. The models include logistical regression, SVM, KNN, Adaboost, and MLP and so on. And we plot each model’s confusion matrix, and ROC curve. <br>
+### File
+The file contains data and code, the data part contains combats.csv and pokemon.csv.<br> 
+The code has five parts: data visualization, feature engineering, elo-rating and algorithms<br/> 
+### Usage
+## Part 2
+###
