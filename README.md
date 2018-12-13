@@ -19,8 +19,8 @@ First we conduct data visualization feature engineering and elo-rating , then we
 ### 3.2 File
 The file contains data and code, the data part contains combats.csv and pokemon.csv.<br> 
 The code has five parts: data visualization, feature engineering, elo-rating and algorithms<br/> 
-### 3.3 Reslut
-![](part1/Part_1_result.png)
+### 3.3 Result
+![](part1/Part_1_result.png)<br/>
 ## 4. Part 2
 ### 4.1 Introduction
 Generative adversarial networks are a class of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks contesting with each other in a zero-sum game framework.
