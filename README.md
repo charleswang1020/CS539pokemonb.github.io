@@ -23,12 +23,15 @@ The code has five parts: data visualization, feature engineering, elo-rating and
 ### 4.1 Introduction
 Generative adversarial networks are a class of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks contesting with each other in a zero-sum game framework.
 ### 4.2 File
+The part 2 contains code_1 and code_2
+code_1 conducts image generation about pikachu and squirtle using WGAN
+code_2 conducts image generation using 14000 pictures about all kinds of pokemons using DCGAN
 ### 4.3 Usage
-#### 4.3.1 Code_1
+#### Code_1
 <pre><code>python resize.py<br/>
 python rgb.py<br/>
 python GAN.py<br/></code></pre>
-#### 4.3.2 Code_2
+#### Code_2
 you can use our dataset to train the model by<br/>
 <pre><code>python main.py --input_height 64--input_width 64 --output_height 64 --output_width 64 --data pokemon --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 Or, you can use your own dataset, making sure data folder contains your dataset or you can use<br/>
@@ -37,11 +40,11 @@ then, add you images data into DATA_NAME folder and use our model by
 <pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 ### 4.4 Generated result
 Pikachu<br>
-![](part2/results/pokeall_3.gif)<br/>
+![](part2/results/pokeall_3.gif)
 Squirtle<br>
-![](part2/results/pokeall_2.gif)<br/>
+![](part2/results/pokeall_2.gif)
 14000_pokemons<br>
-![](part2/results/pokeall_1.gif)<br/>
+![](part2/results/pokeall_1.gif)
 
 ## 5 Credit
 https://zhuanlan.zhihu.com/p/24767059<br/>
