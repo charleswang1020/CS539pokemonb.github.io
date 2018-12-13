@@ -9,7 +9,6 @@ matplotlib<br/>
 seaborn<br/>
 prettytable<br/>
 itertools<br/>
-time<br/>
 scikit-learn<br/>
 SciPy<br/></code></pre>
 ## 3. Part1
