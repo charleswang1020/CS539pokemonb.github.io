@@ -30,11 +30,11 @@ python rgb.py<br/>
 python GAN.py<br/></code></pre>
 #### 4.3.2 Code_2
 you can use our dataset to train the model by<br/>
-<pre><code>python main.py --input_height 64--input_width 64 --output_height 64 --output_width 64 --data pokemon --crop --train --epoch 80 --input_fname_pattern "*.jpg"</pre>
+<pre><code>python main.py --input_height 64--input_width 64 --output_height 64 --output_width 64 --data pokemon --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 Or, you can use your own dataset, making sure data folder contains your dataset or you can use<br/>
-<pre><code>$ mkdir data/DATA_NAME</pre>
+<pre><code>$ mkdir data/DATA_NAME</code></pre>
 then, add you images data into DATA_NAME folder and use our model by
-<pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</pre>
+<pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 ### 4.4 Generated result
 ## 5 Credit
 
