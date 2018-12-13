@@ -37,5 +37,6 @@ then, add you images data into DATA_NAME folder and use our model by
 <pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 ### 4.4 Generated result
 ## 5 Credit
-https://zhuanlan.zhihu.com/p/24767059
+https://zhuanlan.zhihu.com/p/24767059<br/>
+[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 
