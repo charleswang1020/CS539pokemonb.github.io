@@ -13,3 +13,8 @@ itertools<br/>
 time<br/>
 scikit-learn<br/>
 SciPy<br/>
+## Part1
+### introduction
+First we conduct feature engineering and data visualization, then we try several classical machine learning models to predict the combat result. The models include logistical regression, SVM, KNN, Adaboost, and MLP and so on. And we plot each model’s confusion matrix, and ROC curve. <br>
+### usage
+
