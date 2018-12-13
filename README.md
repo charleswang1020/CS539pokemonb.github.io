@@ -18,7 +18,7 @@ First we conduct data visualization, feature engineering and elo-rating , then w
 The file contains data and code, the data part contains combats.csv and pokemon.csv.<br> 
 The code has five parts: data visualization, feature engineering, elo-rating and algorithms<br/>
 ### 3.3 Result
-The part1/code.ipynb includes all results of our machine learning part.
+The part1/code.ipynb includes all results of our machine learning part.<br/>
 ![](part1/Result.png)<br/>
 ## 4. Deep Learning
 ### 4.1 Introduction
