@@ -41,11 +41,12 @@ Or, you can use your own dataset, making sure data folder contains your dataset 
 then, add you images data into DATA_NAME folder and use our model by
 <pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 ### 4.4 Generated result
-Pikachu<br>
+Pikachu(5000 epoches, 50 epoches per image)<br>
+
 ![](part2/results/pokeall_3.gif)<br/>
-Squirtle<br>
+Squirtle(5000 epoches, 50 epoches per image)<br>
 ![](part2/results/pokeall_2.gif)<br/>
-14000_pokemons<br>
+14000_pokemons(80 epoches, 1 epoch per image)<br>
 ![](part2/results/pokeall_1.gif)<br/>
 
 ## 5 Credit
