@@ -18,6 +18,7 @@ First we conduct data visualization, feature engineering and elo-rating , then w
 The file contains data and code, the data part contains combats.csv and pokemon.csv.<br> 
 The code has five parts: data visualization, feature engineering, elo-rating and algorithms<br/>
 ### 3.3 Result
+
 ![](part1/Result.png)<br/>
 ## 4. Deep Learning
 ### 4.1 Introduction
@@ -38,8 +39,8 @@ Also, you can use your own dataset by<br/>
 Then, add you images into DATA_NAME folder by
 <pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 ### 4.4 Result
-Pikachu (295 pictures, 5000 epoches, 50 epoches per image)<br>
-![](part2/results/Pikachu.gif)<br>
+<br>
+![Pikachu (295 pictures, 5000 epoches, 50 epoches per image)](part2/results/Pikachu.gif)<br>
 Squirtle (280 pictures, 5000 epoches, 50 epoches per image)<br>
 ![](part2/results/Squirtle.gif)<br>
 Pokemons (14000 pictures, 80 epoches, 1 epoch per image)<br>
