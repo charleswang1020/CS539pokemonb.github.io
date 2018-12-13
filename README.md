@@ -1,5 +1,5 @@
 ## 1. Overview
-This project contains two parts. Part 1 is about the prediction of battle result between two pokemons, while part 2 is the iamge generation using Generative Adversarial Networks<br>
+The project contains two parts. Part 1 is about the prediction of battle result between two pokemons, and part 2 is the image generation using Generative Adversarial Networks.<br>
 ## 2. Dependence (pip install)
 <pre><code>Numpy<br>
 Pandas<br/>
@@ -14,7 +14,7 @@ scikit-learn<br/>
 SciPy<br/></code></pre>
 ## 3. Part1
 ### 3.1 Introduction
-First we conduct data visualization feature engineering and elo-rating , then we try several classical machine learning models to predict the combat result. The models include logistical regression, SVM, KNN, Adaboost, and MLP and so on. And we plot each model’s confusion matrix, and ROC curve. <br>
+First we conduct data visualization, feature engineering and elo-rating , then we try several classical machine learning models to predict the combat result. The models include logistical regression, SVM, KNN, Adaboost, MLP and so on. We plot each model’s confusion matrix and ROC curve.<br>
 ### 3.2 File
 The file contains data and code, the data part contains combats.csv and pokemon.csv.<br> 
 The code has five parts: data visualization, feature engineering, elo-rating and algorithms<br/>
@@ -22,11 +22,11 @@ The code has five parts: data visualization, feature engineering, elo-rating and
 ![](part1/Result.png)<br/>
 ## 4. Part 2
 ### 4.1 Introduction
-We perform image generation by implementing Generative adversarial networks
+We perform image generation by implementing Generative adversarial networks.
 ### 4.2 File
 Part 2 contains two codes<br/>
-Code_1 generates images of two classical pokemons called pikachu and squirtle using WGAN<br/>
-Code_2 generates images of all kinds of pokemons using 14000 pictures by implementing DCGAN<br/>
+Code_1 generates images of two classical pokemons called pikachu and squirtle using WGAN.<br/>
+Code_2 generates images of all kinds of pokemons using 14000 pictures by implementing DCGAN.<br/>
 ### 4.3 Usage
 #### Code_1
 <pre><code>python resize.py<br/>
