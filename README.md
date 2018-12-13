@@ -52,5 +52,5 @@ Final Result<br/>
 [Code_1](https://github.com/llSourcell/Pokemon_GAN)<br/>
 [Code 2](https://github.com/carpedm20/DCGAN-tensorflow)<br/>
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)<br/>
-https://zhuanlan.zhihu.com/p/24767059<br/>
 https://medium.com/@yvanscher/using-gans-to-create-monsters-for-your-game-c1a3ece2f0a0<br/>
+https://zhuanlan.zhihu.com/p/24767059<br/>
