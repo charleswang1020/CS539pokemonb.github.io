@@ -44,6 +44,7 @@ Squirtle (280 pictures, 5000 epoches, 50 epoches per image)<br>
 ![](part2/results/Squirtle.gif)<br/>
 Pokemons (14000 pictures, 80 epoches, 1 epoch per image)<br>
 ![](part2/results/Pokemon_all.gif)<br/>
+![](part2/results/final_result.jpg)<br/>
 ## 5 Credit
 [Part_1 dataset](https://www.kaggle.com/terminus7/pokemon-challenge)<br/>
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)<br/>
