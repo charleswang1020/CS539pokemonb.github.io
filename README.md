@@ -43,11 +43,11 @@ then, add you images data into DATA_NAME folder and use our model by
 ### 4.4 Generated result
 Pikachu(5000 epoches, 50 epoches per image)<br>
 
-![](part2/results/pokeall_3.gif)<br/>
+![](part2/results/Pikachu.gif)<br/>
 Squirtle(5000 epoches, 50 epoches per image)<br>
-![](part2/results/pokeall_2.gif)<br/>
+![](part2/results/Squirtle.gif)<br/>
 14000_pokemons(80 epoches, 1 epoch per image)<br>
-![](part2/results/pokeall_1.gif)<br/>
+![](part2/results/Pokemon_all.gif)<br/>
 
 ## 5 Credit
 https://zhuanlan.zhihu.com/p/24767059<br/>
