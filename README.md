@@ -21,13 +21,13 @@ The file contains data and code, the data part contains combats.csv and pokemon.
 The code has five parts: data visualization, feature engineering, elo-rating and algorithms<br/> 
 ### 3.3 Reslut
 ![](part1/Part_1_result.png)
-## 4. Part 2]
+## 4. Part 2
 ### 4.1 Introduction
 Generative adversarial networks are a class of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks contesting with each other in a zero-sum game framework.
 ### 4.2 File
 Part 2 contains two codes<br/>
-Code_1 generates images of two classical pokemons called pikachu and squirtle using WGAN
-Code_2 generates images of all kinds of pokemons using 14000 pictures by implementing DCGAN
+Code_1 generates images of two classical pokemons called pikachu and squirtle using WGAN<br/>
+Code_2 generates images of all kinds of pokemons using 14000 pictures by implementing DCGAN<br/>
 ### 4.3 Usage
 #### Code_1
 <pre><code>python resize.py<br/>
