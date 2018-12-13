@@ -46,7 +46,7 @@ Pokemons (14000 pictures, 80 epoches, 1 epoch per image)<br>
 ![](part2/results/Pokemon_all.gif)<br>
 Pokemons final result<br/>
 ![](part2/results/final_result.png)<br>
-## 5 Credit
+## 5. Credit
 [Part_1 dataset](https://www.kaggle.com/terminus7/pokemon-challenge)<br/>
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)<br/>
 [Code_1](https://github.com/llSourcell/Pokemon_GAN)<br/>
