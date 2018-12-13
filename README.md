@@ -1,6 +1,6 @@
 ## 1. Overview
 The project contains two parts. Machine Learning part is about the prediction of battle result between two pokemons, and Deep Learning part is the image generation using Generative Adversarial Networks.<br>
-## 2. Dependence (pip install)
+## 2. Dependence
 <pre><code>Numpy<br>
 Pandas<br/>
 Tensorflow<br/>
