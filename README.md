@@ -35,11 +35,11 @@ you can use our dataset to train the model by
 
 Or, you can use your own dataset, making sure data folder contains your dataset or you can use
 
-$ mkdir data/DATA_NAME
+<pre><code>$ mkdir data/DATA_NAME</pre>
 
 then, add you images data into DATA_NAME folder and use our model by
 
-python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"
+<pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</pre>
 ### 4.4 Generated result
 ## 5 Credit
 
