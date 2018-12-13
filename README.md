@@ -23,7 +23,6 @@ The code has five parts: data visualization, feature engineering, elo-rating and
 ### 4.1 Introduction
 We perform image generation by implementing Generative adversarial networks.
 ### 4.2 File
-Part 2 contains two codes:<br/>
 Code_1 separately generates images of two classical pokemons called pikachu and squirtle using WGAN.<br/>
 Code_2 directly generates images of 14000 pokemons using DCGAN.<br/>
 ### 4.3 Usage
