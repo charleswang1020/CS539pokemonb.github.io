@@ -11,7 +11,7 @@ prettytable<br/>
 itertools<br/>
 scikit-learn<br/>
 SciPy<br/></code></pre>
-## 3. Part1 (Machine Learning)
+## 3. Machine Learning
 ### 3.1 Introduction
 First we conduct data visualization, feature engineering and elo-rating , then we try several classical machine learning models to predict the combat result. The models include logistical regression, SVM, KNN, Adaboost, MLP and so on. We plot each model’s confusion matrix and ROC curve.<br>
 ### 3.2 File
@@ -19,7 +19,7 @@ The file contains data and code, the data part contains combats.csv and pokemon.
 The code has five parts: data visualization, feature engineering, elo-rating and algorithms<br/>
 ### 3.3 Result
 ![](part1/Result.png)<br/>
-## 4. Part 2 (Deep Learning)
+## 4. Deep Learning
 ### 4.1 Introduction
 We perform image generation by implementing Generative adversarial networks.
 ### 4.2 File
