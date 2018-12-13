@@ -50,7 +50,7 @@ Squirtle<br>
 
 ## 5 Credit
 https://zhuanlan.zhihu.com/p/24767059<br/>
-[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
-https://github.com/carpedm20/DCGAN-tensorflow
+[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)<br/>
+https://github.com/carpedm20/DCGAN-tensorflow<br/>
 https://github.com/llSourcell/Pokemon_GAN
 
