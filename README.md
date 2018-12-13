@@ -39,13 +39,13 @@ Then, add you images into DATA_NAME folder by
 <pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 ### 4.4 Result
 Pikachu (295 pictures, 5000 epoches, 50 epoches per image)<br>
-![](part2/results/Pikachu.gif)<br/>
+![](part2/results/Pikachu.gif)<br>
 Squirtle (280 pictures, 5000 epoches, 50 epoches per image)<br>
-![](part2/results/Squirtle.gif)<br/>
+![](part2/results/Squirtle.gif)<br>
 Pokemons (14000 pictures, 80 epoches, 1 epoch per image)<br>
-![](part2/results/Pokemon_all.gif)<br/>
+![](part2/results/Pokemon_all.gif)<br>
 Pokemons final result<br/>
-![](part2/results/final_result.png)<br/>
+![](part2/results/final_result.png)<br>
 ## 5 Credit
 [Part_1 dataset](https://www.kaggle.com/terminus7/pokemon-challenge)<br/>
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)<br/>
