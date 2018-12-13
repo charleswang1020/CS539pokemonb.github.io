@@ -2,7 +2,7 @@
 ## 1. Overview
 This project contains two parts.Part 1 is about the prediction of battle result between two pokemons, while part 2 is the iamge generation using Generative Adversarial Networks<br>    
 ## 2. Dependencies(pip install)
-Numpy<br>
+<pre><code>Numpy<br>
 Pandas<br/>
 Tensorflow<br/>
 cv2<br/>
@@ -12,7 +12,7 @@ prettytable<br/>
 itertools<br/>
 time<br/>
 scikit-learn<br/>
-SciPy<br/>
+SciPy<br/></code></pre>
 ## 3. Part1
 ### 3.1 Introduction
 First we conduct data visualization feature engineering and elo-rating , then we try several classical machine learning models to predict the combat result. The models include logistical regression, SVM, KNN, Adaboost, and MLP and so on. And we plot each model’s confusion matrix, and ROC curve. <br>
