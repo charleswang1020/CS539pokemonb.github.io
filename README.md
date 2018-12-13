@@ -36,7 +36,11 @@ Or, you can use your own dataset, making sure data folder contains your dataset 
 then, add you images data into DATA_NAME folder and use our model by
 <pre><code>python main.py --input_height **--input_width ** --output_height ** --output_width ** --data DATA_NAME --crop --train --epoch 80 --input_fname_pattern "*.jpg"</code></pre>
 ### 4.4 Generated result
+![](part2/results/pokeall_3.gif)
+![](part2/results/pokeall_2.gif)
+![](part2/results/pokeall_1.gif)
+
 ## 5 Credit
 https://zhuanlan.zhihu.com/p/24767059<br/>
 [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
-https://github.com/carpedm20/DCGAN-tensorflow
+
