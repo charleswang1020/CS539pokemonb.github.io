@@ -20,7 +20,7 @@ First we conduct data visualization feature engineering and elo-rating , then we
 The file contains data and code, the data part contains combats.csv and pokemon.csv.<br> 
 The code has five parts: data visualization, feature engineering, elo-rating and algorithms<br/> 
 ### 3.3 Result
-![](part1/Part_1_result.png)<br/>
+![](part1/Result.png)<br/>
 ## 4. Part 2
 ### 4.1 Introduction
 We perform image generation by implementing Generative adversarial networks
